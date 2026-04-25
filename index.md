@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Welcome
+title: 欢迎来到我的网站
 ---
 
-# Welcome to My Website
+# 欢迎来到我的网站
 
-This is my personal website using the Cayman theme.
+这是我的使用 Cayman 主题的个人网站。
 
-## About Me
+## 关于我
 
-I'm wengxiyou, and this is my GitHub Pages site.
+我是 wengxiyou，这是我的 GitHub Pages 网站。
 
-## Projects
+## 我的项目
 
-Check out my repositories on GitHub:
+查瞈我在 GitHub 上的仓库：
 
-- [My GitHub Profile](https://github.com/Wengxiyou)
-- [My Other Projects](#)
+- [我的 GitHub 个人主页](https://github.com/Wengxiyou)
+- [我的其他项目](#)
